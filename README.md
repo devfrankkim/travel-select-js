@@ -4,7 +4,7 @@ It's a one day challenge that I built using localStorage API to save the data in
 
 [reference](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-## Key concepts I learned from building this project
+## Key concepts I have learned from building this project
 
 - [x] DOM manipulation 
 - [x] How to use localStorage.setItem() and localStorage.getItem()
